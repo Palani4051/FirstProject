@@ -1,0 +1,6 @@
+#include<iosteream>
+using namespace tsd;
+int main()
+{
+    return 0;
+}
